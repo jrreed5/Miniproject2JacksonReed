@@ -35,7 +35,7 @@ except FileExistsError:
     pass
 
 # Save the graph as a PNG file in a folder called 'charts'
-plt.savefig('images/top_10_airports_fatalities.png')
+plt.savefig('images/top_20_airops_fatalities.png')
 
 # Show the plot
 plt.show()
